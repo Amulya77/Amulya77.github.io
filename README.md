@@ -8,13 +8,8 @@
 
 
 
-- 💬 Ask me about **Anything known to me**
 
-- 📫 How to reach me **akmewtriple7@gmail.com**
-
-- 📫 How to reach me **20bcs6853@cuchd.in**
-
-- ⚡ <i>**I am a Digital Artist and I love Cricket.**<i>
+⚡ <i>I am a Digital Artist and I love Cricket.<i>
 
 
 <h3 align="left">Connect with me:</h3>
