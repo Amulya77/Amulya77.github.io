@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://github.com/Amulya77/Amulya77/blob/main/Black%20Technology%20LinkedIn%20Banner.png" height="300" width="1100" /> 
+<h1 align="center"> <img src="https://github.com/Amulya77/Amulya77.github.io/blob/main/amulya.png?raw=true" height="300" width="1100" /> 
   <h2 align="center">Namaste :pray:, I'm Amulya Kumar Maurya</h2>
 <h3 align="center">A Coder , Artist , Indian</h3>
  <i>I am just a guy present in the tech world only because of the hard work of my family. I am passionate about using software engineering combined with latest technologies to build powerful projects from scratch with a clear objective in mind. A sophmore in CSE at CHANDIGARH UNIVERSITY. I love experimenting with new technologies and frameworks and sharing or learning them with others here in the Open Source Community.Django and ReactJs are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on WEBSERIES or reading WEBTOONS.</i> 
